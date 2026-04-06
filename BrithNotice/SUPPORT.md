@@ -58,7 +58,7 @@ A: Yes! Tap "Refresh" (🔄) in the templates section to load a new batch. The A
 ### Data & Privacy
 
 **Q: Where is my data stored?**
-A: All data is stored locally on your device. We do not upload any data to external servers. See our [Privacy Policy](privacy.md) for details.
+A: All data is stored locally on your device. We do not upload any data to external servers. See our [Privacy Policy](PRIVACY.md) for details.
 
 **Q: How do I back up my data?**
 A: Your data is included in your regular iPhone/iPad backup (iCloud Backup or iTunes/Finder backup). When you restore your device from a backup, your BirthNotice data will be restored as well.
