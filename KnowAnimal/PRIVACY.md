@@ -1,168 +1,153 @@
-# 隐私政策
+# KnowAnimal 隐私政策 · Privacy Policy
 
-**最后更新日期：2026 年 4 月 29 日**
+**最近更新：2026 年 4 月 29 日**
 
-## 概述
-
-「认识动物」（KnowAnimal，以下简称"本 App"）是一款面向 2-8 岁儿童的离线动物认知应用。我们高度重视用户隐私，尤其是儿童用户的隐私保护，并承诺以最高标准保护您和您孩子的个人信息。
-
-**核心承诺：本 App 完全离线运行，不收集任何个人信息，不进行任何形式的数据传输。**
-
-## 我们不收集任何个人信息
-
-本 App 不收集、不存储、不上传以下任何信息：
-
-- ❌ 姓名、年龄、性别等个人身份信息
-- ❌ 邮箱、电话、地址等联系方式
-- ❌ 设备 ID、广告标识符（IDFA/IDFV）
-- ❌ 位置信息（GPS/IP 地理位置）
-- ❌ 通讯录、相册、麦克风、相机等设备权限数据
-- ❌ 浏览记录、点击行为、使用时长等行为分析数据
-- ❌ 崩溃日志、性能数据等技术统计信息
-
-我们的 `PrivacyInfo.xcprivacy` 文件已向 Apple 声明：本 App 不收集任何用户数据。
-
-## 完全离线运行
-
-本 App 的所有内容（动物图鉴、声音、游戏、设置）均存储于您的设备本地：
-
-- ✅ 无需注册账户
-- ✅ 无需登录
-- ✅ 无需网络连接（首次下载安装后）
-- ✅ 不向任何服务器发送数据
-- ✅ 不集成任何第三方分析、广告、统计 SDK
-
-## 本地数据存储
-
-本 App 仅在您的设备本地存储以下使用偏好（保存于 iOS 系统的 UserDefaults，不上传也不与他人分享）：
-
-| 数据类型 | 用途 | 存储位置 |
-|---------|------|---------|
-| 收藏的动物列表 | 记录孩子收藏的动物 | 设备本地 |
-| 已学习动物记录 | 学习进度展示 | 设备本地 |
-| 答题统计（正确数、总数） | 游戏成绩展示 | 设备本地 |
-| 声音/英文/年龄段偏好 | 个性化设置 | 设备本地 |
-| 解锁分类记录 | 成就解锁状态 | 设备本地 |
-
-**卸载本 App 即可删除所有本地数据，无任何残留。**
-
-## 儿童隐私保护（COPPA 合规）
-
-本 App 专为儿童设计，严格遵守《儿童在线隐私保护法》(COPPA) 及《通用数据保护条例》(GDPR-K) 中关于儿童的特别规定：
-
-- 不向 13 岁以下儿童收集任何个人信息
-- 不展示任何第三方广告
-- 不包含任何外部链接（除付费购买必需的 App Store 跳转）
-- 不提供社交分享功能
-- 不进行任何用户行为追踪
-
-## 应用内购买（IAP）
-
-本 App 提供高级会员订阅及终身买断购买，相关交易由 Apple App Store 处理：
-
-- 所有支付信息（如账单地址、支付方式）由 **Apple App Store** 处理，本 App 无法访问
-- 我们仅通过 Apple 提供的 StoreKit API 接收购买结果（成功/失败、订阅有效期），不接触任何支付明细
-- 订阅状态存储于您的 Apple ID，跨设备自动同步
-- 支持 **家庭共享**：购买后家庭成员（最多 6 人）可共享会员权益
-- 详细付款条款请参阅 [Apple 媒体服务条款](https://www.apple.com/legal/internet-services/itunes/)
-
-## 家长控制
-
-本 App 内的「家长门控」（Parent Gate）功能用于在涉及付款、外部跳转等敏感操作前进行简单算术验证，确保为家长本人操作。该功能：
-
-- 不收集、不上传任何答题数据
-- 不要求输入任何家长身份信息
-- 验证逻辑完全在设备本地完成
-
-## 第三方服务
-
-本 App **未集成** 以下任何第三方服务：
-
-- ❌ Google Analytics、Firebase、AppsFlyer 等分析平台
-- ❌ Facebook SDK、TikTok SDK 等社交平台
-- ❌ Admob、Unity Ads 等广告平台
-- ❌ Sentry、Bugsnag 等崩溃监控
-- ❌ 任何云存储或同步服务
-
-## 数据安全
-
-由于本 App 不收集、不传输任何个人数据，因此不存在数据泄露的风险。所有内容均运行于您设备的沙盒环境中，受 iOS 系统级安全机制保护。
-
-## 政策变更
-
-如本隐私政策有任何变更，我们将在本页面更新「最后更新日期」并发布新版本。重大变更会通过 App 内通知告知用户。
-
-## 联系我们
-
-如对本隐私政策有任何疑问或建议，请通过以下方式联系：
-
-- **邮箱**：wzzvictory_tjsd@163.com
-- **GitHub Issues**：https://github.com/wangzz/md-doc/issues
-
-我们通常在 2-3 个工作日内回复。
+> 中文版本如下，English version follows below.
 
 ---
 
-## Privacy Policy (English Version)
+## 中文版
 
-**Last updated: April 29, 2026**
+### 引言
 
-### Overview
+欢迎使用 **KnowAnimal（认识动物）**。我们高度重视用户隐私，特别是儿童用户的隐私。本隐私政策说明了我们在您使用本应用时如何处理信息。
 
-KnowAnimal is an offline animal-recognition app designed for children aged 2-8. We take user privacy extremely seriously, especially for our young users.
+### 我们收集的信息
 
-**Core Promise: This app operates entirely offline. We do not collect any personal information, and no data is transmitted to any server.**
+**我们不收集任何个人信息。** KnowAnimal 是完全离线运行的应用，不要求任何用户注册、登录或联网即可使用。
 
-### We Collect No Personal Data
+具体来说，KnowAnimal **不会** 收集：
 
-- No name, age, gender, or other identifying information
-- No email, phone, or contact details
-- No device IDs or advertising identifiers (IDFA/IDFV)
-- No location data
-- No camera, microphone, contacts, or photo library access
-- No usage analytics, click tracking, or session recording
-- No crash logs or telemetry
+- 个人身份信息（姓名、邮箱、电话等）
+- 位置信息
+- 设备标识符或广告 ID（IDFA、IDFV 等）
+- 使用行为分析或追踪数据
+- 照片、通讯录或设备上的任何其他数据
+- 健康、运动或财务数据
 
-Our `PrivacyInfo.xcprivacy` declares to Apple that this app collects no user data.
+### 第三方服务
 
-### Fully Offline
+KnowAnimal **不集成** 任何第三方服务，包括：
 
-All app content (animal encyclopedia, sounds, games, settings) is stored locally on your device. No account, login, or internet connection required after initial install.
+- 数据分析工具（如 Firebase、Google Analytics、神策、友盟等）
+- 广告网络（如 AdMob、穿山甲、优量汇等）
+- 社交媒体 SDK
+- 崩溃上报服务
 
-### Local Storage
+### 数据存储
 
-The app stores only the following preferences locally on your device (in iOS UserDefaults, never uploaded):
+应用内所有内容（动物图片、叫声、文字）均已打包至应用本身。**不会从任何服务器下载，也不会向任何服务器上传任何数据**。
 
-- Favorite animals list
-- Learning progress
-- Quiz statistics
-- Sound/language/age-group preferences
-- Category unlock records
+您在应用内的本地数据（如收藏的动物、学习进度、游戏统计、设置偏好）仅保存在设备本地，使用 iOS 系统提供的 `UserDefaults` 存储，不会被同步、上传或共享。
 
-Uninstalling the app permanently removes all local data.
+### 内购与订阅
 
-### Children's Privacy (COPPA Compliant)
+应用内购买与订阅由 **苹果 App Store** 独立处理，KnowAnimal 不接收、不存储任何支付信息。订阅状态通过 Apple StoreKit 接口在本地校验，不会上报至我们的任何服务器（我们也没有服务器）。
 
-This app is designed for children and complies with COPPA and GDPR-K:
-- No data collection from children under 13
-- No third-party ads
-- No external links (except App Store for purchases)
-- No social sharing features
-- No behavioral tracking
+### 联网行为
 
-### In-App Purchases
+KnowAnimal 仅在以下场景需要联网，且不传输任何用户数据：
 
-Premium subscription and lifetime purchases are processed by **Apple App Store**. We only receive purchase results (success/failure, expiry date) via StoreKit. Payment details are never accessible to us.
+- **恢复购买**：通过苹果 StoreKit 校验内购历史
+- **加载商品价格**：通过苹果 StoreKit 拉取本地化价格
+- **打开本隐私政策 / 用户协议链接**：跳转外部浏览器查看本仓库托管的文档
 
-Family Sharing is supported (up to 6 members).
+### 儿童隐私保护
 
-See [Apple Media Services Terms](https://www.apple.com/legal/internet-services/itunes/) for payment details.
+KnowAnimal 是面向儿童的教育应用。我们承诺严格遵守 **儿童在线隐私保护法（COPPA）**、**通用数据保护条例（GDPR-K）**、**中华人民共和国个人信息保护法** 及全球类似法规。**由于我们不收集任何数据，因此也不会收集、存储或共享任何儿童信息**。
 
-### No Third-Party Services
+### 设备权限
 
-This app does NOT integrate with any analytics, advertising, social, crash-reporting, or cloud storage SDKs.
+KnowAnimal 不请求任何敏感设备权限。应用仅使用：
 
-### Contact
+- **音频播放**：播放动物叫声与文字朗读，完全使用 iOS 系统内置能力，在设备本地运行
 
-- Email: wzzvictory_tjsd@163.com
-- GitHub Issues: https://github.com/wangzz/md-doc/issues
+不请求：相机、麦克风、位置、通讯录、相册、推送通知等任何权限。
+
+### 隐私政策变更
+
+我们可能会不定期更新本隐私政策。任何变更将通过更新本文档顶部的「最近更新」日期来体现。建议您定期查阅。
+
+### 联系方式
+
+如对本隐私政策有任何疑问或意见，请通过以下方式联系：
+
+- **邮箱**：wzzvictory_tjsd@163.com
+
+### 同意条款
+
+使用 KnowAnimal 即表示您同意本隐私政策。
+
+---
+
+## English Version
+
+### Introduction
+
+Welcome to **KnowAnimal**. We are committed to protecting your privacy, especially the privacy of our young users. This Privacy Policy explains how we handle information when you use our app.
+
+### Information We Collect
+
+**We do not collect any personal information.** KnowAnimal is designed to work entirely offline and does not require any user registration, login, or internet connection.
+
+Specifically, KnowAnimal does **NOT** collect:
+
+- Personal identification (name, email, phone number, etc.)
+- Location data
+- Device identifiers or advertising IDs (IDFA, IDFV)
+- Usage analytics or tracking data
+- Photos, contacts, or any other data from your device
+- Health, fitness, or financial data
+
+### Third-Party Services
+
+KnowAnimal does **NOT** integrate any third-party services, including:
+
+- Analytics tools (e.g., Firebase, Google Analytics)
+- Advertising networks (e.g., AdMob)
+- Social media SDKs
+- Crash reporting services
+
+### Data Storage
+
+All app content (animal images, sounds, text) is bundled within the app. No data is downloaded from or uploaded to any server.
+
+Local data on your device (favorites, learning progress, game stats, preferences) is stored only on your device via iOS `UserDefaults` and never synced or shared.
+
+### In-App Purchases & Subscriptions
+
+In-app purchases and subscriptions are handled exclusively by **Apple App Store**. KnowAnimal does not receive or store any payment information. Subscription status is validated locally via Apple StoreKit and is never reported to any server (we don't have one).
+
+### Network Activity
+
+KnowAnimal only requires network access in the following scenarios, and no user data is transmitted:
+
+- **Restore Purchases**: validates IAP history via Apple StoreKit
+- **Load Product Prices**: fetches localized prices via Apple StoreKit
+- **Open Privacy / Terms Links**: opens this repository in an external browser
+
+### Children's Privacy
+
+KnowAnimal is designed as an educational app for children. We are committed to complying with **COPPA**, **GDPR-K**, **PIPL (China)**, and similar global regulations. Since we do not collect any data whatsoever, no children's information is ever gathered, stored, or shared.
+
+### Permissions
+
+KnowAnimal does not request any special device permissions. The app only uses:
+
+- **Audio playback**: To play animal sounds and text-to-speech, handled entirely on-device using built-in iOS capabilities.
+
+We do NOT request: camera, microphone, location, contacts, photos, or push notifications.
+
+### Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be reflected by updating the "Last Updated" date at the top.
+
+### Contact Us
+
+If you have any questions about this Privacy Policy, please contact:
+
+- **Email**: wzzvictory_tjsd@163.com
+
+### Consent
+
+By using KnowAnimal, you agree to this Privacy Policy.
