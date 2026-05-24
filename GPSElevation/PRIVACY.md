@@ -18,9 +18,21 @@ wangzz（以下简称"我们"）高度重视用户隐私保护。本政策说明
 #### 1.2 自动收集的信息
 
 本应用在您使用过程中会收集以下信息，全部存储在您的设备本地：
+
 - GPS 位置信息（经度、纬度、海拔）— 仅用于海拔测量功能
 - 气压传感器数据 — 仅用于海拔融合计算
 - 设备型号和系统版本 — 仅用于反馈邮件中的问题诊断
+
+**关于友盟统计 SDK 收集的数据：**
+
+如果您同意隐私授权，友盟 SDK 会收集以下匿名统计数据用于产品改进：
+
+- 设备型号和操作系统版本
+- 应用启动次数和使用时长
+- 功能页面访问情况
+- 应用崩溃日志（用于问题诊断）
+
+这些数据仅用于统计分析，不会用于广告追踪，也不会包含您的个人身份信息。
 
 #### 1.3 我们不会收集的信息
 
@@ -42,13 +54,17 @@ wangzz（以下简称"我们"）高度重视用户隐私保护。本政策说明
 
 ### 3. 第三方服务
 
-本应用不集成任何第三方数据收集 SDK。所有数据均通过 Apple 系统框架（CoreLocation、CoreMotion、StoreKit）处理，这些框架由 Apple 提供并受 Apple 隐私政策约束。
+本应用集成以下第三方服务：
+
+- **友盟统计 SDK (UMeng)**：用于分析应用使用情况，包括设备型号、操作系统版本、应用启动次数、页面访问等数据。友盟 SDK 使用 HTTPS 加密传输数据，不会收集用于广告追踪的标识符。您可以通过拒绝隐私授权弹窗来禁用数据收集。
+- **Apple StoreKit**：用于应用内购买与订阅管理，支付信息由 Apple 处理。
+- **Apple iCloud**：用于数据同步（若您启用），受 Apple 隐私政策保护。
 
 ### 4. 信息存储与安全
 
-- 存储地点：所有数据均存储在您的设备本地，不会上传至远程服务器
-- 存储期限：数据在您使用应用期间保留，卸载应用后数据将被自动删除
-- 安全措施：我们采用系统级权限控制和加密传输等技术措施保护您的信息
+- **存储地点**：海拔测量相关数据存储在您的设备本地，不会上传至远程服务器。友盟统计 SDK 收集的匿名使用数据会传输至友盟服务器用于统计分析。
+- **存储期限**：数据在您使用应用期间保留，卸载应用后数据将被自动删除。友盟服务器上的匿名统计数据根据友盟隐私政策保留。
+- **安全措施**：我们采用系统级权限控制和加密传输等技术措施保护您的信息。友盟 SDK 使用 HTTPS 加密传输所有数据。
 
 ### 5. 您的权利
 
@@ -58,6 +74,7 @@ wangzz（以下简称"我们"）高度重视用户隐私保护。本政策说明
 - 更正不准确的个人信息
 - 撤回您先前授予的权限（在系统「设置 → 隐私与安全性 → GPS高度表」中调整）
 - 通过卸载本应用删除所有本地数据
+- **拒绝友盟数据收集**：您可以在首次启动时拒绝隐私授权，或随时通过卸载后重新安装并在弹窗中选择"拒绝"来禁用友盟数据收集
 
 ### 6. 未成年人保护
 
@@ -93,9 +110,21 @@ wangzz ("we", "us", "our") values your privacy. This Privacy Policy describes ho
 #### 1.2 Information Collected Automatically
 
 The App collects the following information during use, all stored locally on your device:
+
 - GPS location data (longitude, latitude, altitude) — Used solely for altitude measurement
 - Barometric pressure sensor data — Used solely for altitude fusion calculation
 - Device model and OS version — Used solely for diagnostics in feedback emails
+
+**Regarding data collected by Umeng Analytics SDK:**
+
+If you consent to privacy authorization, the Umeng SDK collects the following anonymous statistical data for product improvement:
+
+- Device model and operating system version
+- App launch count and usage duration
+- Feature page access statistics
+- App crash logs (for diagnostics)
+
+This data is used solely for statistical analysis, not for advertising tracking, and does not contain personally identifiable information.
 
 #### 1.3 Information We Do Not Collect
 
@@ -117,13 +146,17 @@ We do not use your personal information for purposes beyond those stated above, 
 
 ### 3. Third-Party Services
 
-The App does not integrate any third-party data collection SDKs. All data is processed through Apple system frameworks (CoreLocation, CoreMotion, StoreKit), which are provided by Apple and subject to Apple's privacy policy.
+This App uses the following third-party services:
+
+- **Umeng Analytics SDK (UMeng)**: Used to analyze app usage, including device model, OS version, app launch count, page views, etc. UMeng uses HTTPS encrypted transmission and does not collect advertising identifiers. You can disable data collection by declining the privacy consent prompt.
+- **Apple StoreKit**: In-app purchases and subscription management. Payment info is processed by Apple.
+- **Apple iCloud**: Data sync (if enabled), protected by Apple's privacy policy.
 
 ### 4. Storage and Security
 
-- Location: All data is stored locally on your device. No data is uploaded to remote servers
-- Retention: Data is retained while you use the App and is automatically deleted upon uninstallation
-- Safeguards: We use system-level permission controls and encryption in transit to protect your information
+- **Location**: Altitude measurement data is stored locally on your device. No data is uploaded to remote servers. Anonymous usage data collected by Umeng SDK is transmitted to Umeng servers for statistical analysis.
+- **Retention**: Data is retained while the App is installed and is automatically deleted upon uninstallation. Anonymous statistical data on Umeng servers is retained according to Umeng's privacy policy.
+- **Safeguards**: We use system-level permission controls and encryption in transit to protect your information. Umeng SDK uses HTTPS encrypted transmission for all data.
 
 ### 5. Your Rights
 
@@ -133,6 +166,7 @@ You have the right to:
 - Correct inaccurate information
 - Withdraw previously granted permissions (via iOS Settings → Privacy & Security → GPSElevation)
 - Delete all local data by uninstalling the App
+- **Opt out of Umeng data collection**: You can decline privacy consent on first launch, or disable Umeng data collection by reinstalling and selecting "Decline" when prompted
 
 ### 6. Children's Privacy
 
