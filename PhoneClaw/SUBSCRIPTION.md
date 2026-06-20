@@ -64,7 +64,6 @@ PhoneClaw 提供名为"PhoneClaw Pro"的订阅服务，订阅后可解锁以下�
 ## 10. 联系我们
 
 如果您对订阅条款有任何疑问，请通过以下方式联系我们：
-- GitHub Issues: https://github.com/wangzz/PhoneClaw/issues
 - 邮箱: wzzvictory_tjsd@163.com
 
 ---
@@ -135,5 +134,4 @@ If you sign in on a new device or reinstall the App, you can use the "Restore Pu
 ## 10. Contact Us
 
 If you have any questions about these Subscription Terms, please contact us at:
-- GitHub Issues: https://github.com/wangzz/PhoneClaw/issues
 - Email: wzzvictory_tjsd@163.com

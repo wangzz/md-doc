@@ -68,7 +68,6 @@
 ## 11. 联系我们
 
 如果您对本条款有任何疑问，请通过以下方式联系我们：
-- GitHub Issues: https://github.com/wangzz/PhoneClaw/issues
 - 邮箱: wzzvictory_tjsd@163.com
 
 ---
@@ -143,5 +142,4 @@ These Terms are governed by the laws of the People's Republic of China, without 
 ## 11. Contact Us
 
 If you have any questions about these Terms, please contact us at:
-- GitHub Issues: https://github.com/wangzz/PhoneClaw/issues
 - Email: wzzvictory_tjsd@163.com
