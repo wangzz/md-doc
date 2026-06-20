@@ -26,11 +26,11 @@ You must not:
 
 ### 3.1 Plans
 
-| Plan | Price | Details |
-|------|-------|---------|
-| Monthly | ¥6/month ($1.99) | 3-day free trial |
-| Yearly | ¥48/year ($14.99) | 3-day free trial |
-| Lifetime | ¥128 ($39.99) | One-time purchase |
+| # | Plan | Price | Details |
+|---|------|-------|---------|
+| 1 | Lifetime | ¥18 ($2.99) | One-time purchase (recommended) |
+| 2 | Yearly | ¥28/year ($3.99) | Auto-renews yearly |
+| 3 | Monthly | ¥6/month ($0.99) | Auto-renews monthly |
 
 ### 3.2 Auto-Renewal
 
@@ -38,12 +38,7 @@ You must not:
 - Manage or cancel in Settings → Apple ID → Subscriptions
 - Canceled subscriptions remain active until the current period ends
 
-### 3.3 Free Trial
-
-- Monthly and yearly plans include a 3-day free trial for new subscribers
-- Cancel during the trial to avoid charges
-
-### 3.4 Restore Purchases
+### 3.3 Restore Purchases
 
 Restore previous purchases in Settings → Restore Purchases.
 
