@@ -1,6 +1,6 @@
 # GPS高度表 隐私政策 / Privacy Policy
 
-生效日期 / Effective Date: 2026-05-10
+生效日期 / Effective Date: 2026-06-21
 
 ---
 

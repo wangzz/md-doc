@@ -1,6 +1,6 @@
 # GPS高度表 用户协议 / Terms of Use
 
-生效日期 / Effective Date: 2026-05-10
+生效日期 / Effective Date: 2026-06-21
 
 ---
 

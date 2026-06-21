@@ -1,6 +1,6 @@
 # GPS高度表 订阅条款 / Subscription Terms
 
-生效日期 / Effective Date: 2026-05-10
+生效日期 / Effective Date: 2026-06-21
 
 ---
 
@@ -13,8 +13,8 @@
 本应用提供以下付费产品：
 
 - 月度订阅：¥6/月
-- 年度订阅：¥48/年（含 3 天免费试用）
-- 一次性买断：¥128
+- 年度订阅：¥38/年（如本应用未来提供免费试用，详见应用内说明）
+- 一次性买断：¥18
 
 订阅的具体价格以您购买时 App Store 展示的价格为准，可能因地区、汇率、苹果定价策略而调整。
 
@@ -90,8 +90,8 @@ These Subscription Terms apply to subscription services and one-time purchases y
 The App offers the following paid products:
 
 - Monthly subscription: ¥6/month
-- Yearly subscription: ¥48/year (with 3-day free trial)
-- Lifetime purchase: ¥128
+- Yearly subscription: ¥38/year (if a free trial is offered in the future, see the in-app notice)
+- Lifetime purchase: ¥18
 
 Actual prices are shown in the App Store at the time of purchase and may vary by region, exchange rate, or Apple's pricing policies.
 
