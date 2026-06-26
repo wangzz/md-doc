@@ -9,7 +9,7 @@ KnowAnimal 是一款为 2-8 岁儿童打造的动物认知应用，包含 200 �
 - [技术支持 / Support](./support.md)
 - [隐私政策 / Privacy Policy](./privacy.md)
 - [使用条款 / Terms of Use (EULA)](./terms.md)
-- [订阅说明 / Subscription Terms](./subscription.md)
+- [订阅说明 / Subscription Terms](./SUBSCRIPTION.md)
 - [常见问题 / FAQ](./faq.md)
 
 ## 联系方式

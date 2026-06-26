@@ -39,7 +39,7 @@ KnowAnimal（以下简称「本应用」）由开发者 wzzvictory（以下简�
 - 内购与订阅由苹果 App Store 独立处理，付款与发票由苹果出具
 - 订阅默认自动续费，可在 iPhone「设置 → Apple ID → 订阅」中随时取消
 - 退款请求请通过 [https://reportaproblem.apple.com](https://reportaproblem.apple.com) 直接向苹果提交
-- 详细订阅条款请见 [订阅说明](./subscription.md)
+- 详细订阅条款请见 [订阅说明](./SUBSCRIPTION.md)
 
 ### 6. 服务变更
 
@@ -99,7 +99,7 @@ You may NOT:
 - Handled exclusively by Apple App Store; payment and receipts are issued by Apple
 - Subscriptions auto-renew by default; cancel anytime via "Settings → Apple ID → Subscriptions" on iPhone
 - Refunds: submit directly to Apple at [https://reportaproblem.apple.com](https://reportaproblem.apple.com)
-- See [Subscription Terms](./subscription.md) for details
+- See [Subscription Terms](./SUBSCRIPTION.md) for details
 
 ### 6. Service Changes
 

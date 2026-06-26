@@ -1,6 +1,6 @@
 # KnowAnimal 订阅说明 · Subscription Terms
 
-**最近更新：2026 年 4 月 29 日**
+**最近更新：2026 年 6 月 26 日**
 
 > 本文档为苹果 App Store 自动续期订阅强制要求披露的条款。中文在前，English follows.
 
@@ -14,9 +14,9 @@ KnowAnimal 提供以下三种付费方式解锁全部 200 种动物与全部游�
 
 | 商品名称 | 商品 ID | 价格 | 时长 | 自动续费 |
 |---|---|---|---|---|
-| 月度订阅 | com.knowAnimal.subscription.monthly | ¥3.00 | 1 个月 | 是 |
-| 年度订阅 | com.knowAnimal.subscription.yearly.v2 | ¥18.00 | 1 年（含 3 天免费试用） | 是 |
-| 终身买断 | com.knowAnimal.lifetime | ¥28.00 | 永久 | 否 |
+| 月度订阅 | com.knowAnimal.subscription.monthly | ¥6.00 | 1 个月 | 是 |
+| 年度订阅 | com.knowAnimal.subscription.yearly.v2 | ¥38.00 | 1 年 | 是 |
+| 终身买断 | com.knowAnimal.lifetime | ¥18.00 | 永久 | 否 |
 
 > 实际价格以您所在国家或地区 App Store 显示为准。
 
@@ -32,14 +32,7 @@ KnowAnimal 提供以下三种付费方式解锁全部 200 种动物与全部游�
 - 续费将在到期前 24 小时内从您的 Apple ID 账户扣除下一周期费用
 - 您可以在 iPhone「设置 → Apple ID → 订阅」中随时管理或取消订阅
 
-### 四、免费试用
-
-- 年度订阅提供 **3 天免费试用**
-- 试用期内可随时取消，不会产生任何费用
-- 若未在试用期结束前至少 24 小时取消，将自动按年度订阅价格扣费并开始正式订阅
-- **每个 Apple ID 仅可享受一次免费试用**
-
-### 五、取消订阅
+### 四、取消订阅
 
 取消订阅步骤：
 
@@ -51,14 +44,14 @@ KnowAnimal 提供以下三种付费方式解锁全部 200 种动物与全部游�
 
 取消后，您仍可使用订阅服务直至当前付费周期结束。
 
-### 六、退款
+### 五、退款
 
 订阅退款由苹果统一处理。如需申请退款，请访问：
 [https://reportaproblem.apple.com](https://reportaproblem.apple.com)
 
 我们（开发者）无权直接为您处理退款。
 
-### 七、家庭共享
+### 六、家庭共享
 
 终身买断与所有订阅商品均支持苹果「家庭共享」，最多可与 6 位家庭成员共享。设置方法请参考苹果官方说明：
 [https://support.apple.com/zh-cn/HT201079](https://support.apple.com/zh-cn/HT201079)
@@ -92,9 +85,9 @@ KnowAnimal offers three options to unlock all 200 animals and all games:
 
 | Product | Product ID | Price | Duration | Auto-Renew |
 |---|---|---|---|---|
-| Monthly | com.knowAnimal.subscription.monthly | $0.99 / ¥3.00 | 1 month | Yes |
-| Yearly | com.knowAnimal.subscription.yearly.v2 | $5.99 / ¥18.00 | 1 year (with 3-day free trial) | Yes |
-| Lifetime | com.knowAnimal.lifetime | $9.99 / ¥28.00 | Permanent | No |
+| Monthly | com.knowAnimal.subscription.monthly | $0.99 / ¥6.00 | 1 month | Yes |
+| Yearly | com.knowAnimal.subscription.yearly.v2 | $5.99 / ¥38.00 | 1 year | Yes |
+| Lifetime | com.knowAnimal.lifetime | $9.99 / ¥18.00 | Permanent | No |
 
 > Actual price depends on your App Store country/region.
 
@@ -110,14 +103,7 @@ KnowAnimal offers three options to unlock all 200 animals and all games:
 - Your account will be charged for renewal within 24 hours prior to the end of the current period
 - Manage or cancel subscriptions anytime in "Settings → Apple ID → Subscriptions" on iPhone
 
-### 4. Free Trial
-
-- Yearly subscription includes a **3-day free trial**
-- You can cancel anytime during the trial without being charged
-- If not cancelled at least 24 hours before the trial ends, you will be charged the yearly subscription fee and the subscription will start
-- **Each Apple ID is eligible for the free trial only once**
-
-### 5. Cancellation
+### 4. Cancellation
 
 To cancel:
 
@@ -129,33 +115,33 @@ To cancel:
 
 You can continue to use the service until the end of the current billing period.
 
-### 6. Refunds
+### 5. Refunds
 
 Subscription refunds are handled exclusively by Apple. To request a refund, visit:
 [https://reportaproblem.apple.com](https://reportaproblem.apple.com)
 
 We (the developer) cannot process refunds directly.
 
-### 7. Family Sharing
+### 6. Family Sharing
 
 All purchases (Lifetime and subscriptions) support Apple Family Sharing, allowing sharing with up to 6 family members. See:
 [https://support.apple.com/HT201079](https://support.apple.com/HT201079)
 
-### 8. Price Changes
+### 7. Price Changes
 
 - Apple may automatically localize prices based on your region's exchange rate and tax
 - If we change subscription prices, active subscribers will not be affected within their current period. Apple will notify you before the next renewal, and you can choose to continue or cancel
 
-### 9. Privacy
+### 8. Privacy
 
 Subscription status is validated locally via Apple StoreKit and is never reported to any server of ours. See [Privacy Policy](./privacy.md).
 
-### 10. Related Links
+### 9. Related Links
 
 - [Terms of Use](./terms.md)
 - [Privacy Policy](./privacy.md)
 - [Support](./support.md)
 
-### 11. Contact
+### 10. Contact
 
 - **Email**: wzzvictory_tjsd@163.com
