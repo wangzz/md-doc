@@ -1,6 +1,6 @@
 # 到点吃药 订阅条款 / Subscription Terms
 
-生效日期 / Effective Date: 2026-08-30
+生效日期 / Effective Date: 2026-09-01
 
 ---
 
@@ -13,7 +13,7 @@
 本应用提供以下付费产品：
 
 - **月度会员**：¥12 / 月，自动续期订阅
-- **年度会员**：¥28 / 年，自动续期订阅
+- **年度会员**：¥28 / 年，自动续期订阅，含 3 天免费试用
 - **永久解锁（买断）**：¥48，一次性付费，永久有效（非订阅，详见第 7 节）
 
 订阅的具体价格以您购买时 App Store 展示的价格为准，可能因地区、汇率、苹果定价策略而调整。
@@ -26,7 +26,7 @@
 
 2.3 **续期价格**：续期价格通常与您订阅的周期价格一致。如价格发生变化，Apple 会在变更生效前通过邮件或应用内通知告知您。
 
-2.4 **免费试用**：本应用不提供免费试用。
+2.4 **免费试用**：年度订阅为新订阅用户提供 3 天免费试用。试用期结束前取消不产生任何费用；试用期结束后按第 2.1–2.3 条自动续费。月度订阅与永久解锁不提供免费试用。
 
 ### 3. 如何管理订阅
 
@@ -103,7 +103,7 @@ Actual prices are shown in the App Store at the time of purchase and may vary by
 
 2.3 **Renewal Price**: Renewal prices generally match the initial subscription price. Apple will notify you by email or in-app notification of any price changes before they take effect.
 
-2.4 **Free Trial**: The App does not offer a free trial.
+2.4 **Free Trial**: The yearly subscription offers new subscribers a 3-day free trial. Cancel before the trial ends and you will not be charged; after the trial, the subscription renews automatically per Sections 2.1-2.3. The monthly subscription and Lifetime Unlock do not include a free trial.
 
 ### 3. Managing Your Subscription
 

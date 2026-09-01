@@ -1,6 +1,6 @@
 # 到点吃药 隐私政策 / Privacy Policy
 
-生效日期 / Effective Date: 2026-08-30
+生效日期 / Effective Date: 2026-09-01
 
 ---
 

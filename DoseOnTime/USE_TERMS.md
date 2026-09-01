@@ -1,14 +1,14 @@
-# 到点吃药 用户协议 / Terms of Use
+# 到点吃药 使用条款 / Terms of Use
 
-生效日期 / Effective Date: 2026-08-30
+生效日期 / Effective Date: 2026-09-01
 
 ---
 
 ## 中文版
 
-本《用户协议》（以下简称"本协议"）由您与 wangzz（以下简称"我们"）就您使用 到点吃药（以下简称"本应用"）所签订。请您在使用本应用前仔细阅读。一旦您开始使用本应用，即视为您已阅读、理解并接受本协议全部条款。
+本《使用条款》（以下简称"本协议"）由您与 wangzz（以下简称"我们"）就您使用 到点吃药（以下简称"本应用"）所签订。请您在使用本应用前仔细阅读。一旦您开始使用本应用，即视为您已阅读、理解并接受本协议全部条款。
 
-### 1. 账号与使用规则
+### 1. 服务说明与账号
 
 1.1 本应用无账号体系，无需注册。您的全部数据（药品计划、服药记录、应用设置）仅保存在您的设备本地。
 
@@ -30,11 +30,13 @@
 
 ### 3. 费用与订阅
 
-3.1 本应用在首次保存药品提醒时需要付费解锁。具体提供：月度订阅（¥12/月）、年度订阅（¥28/年）与永久买断（¥48 单次付费）三种方式，具体价格以购买时 App Store 展示为准。
+3.1 本应用在首次保存药品提醒时需要付费解锁。具体提供：月度订阅、年度订阅与一次性买断三种方式，具体价格与周期以购买时 App Store 展示为准。
 
-3.2 付费功能相关条款请参见《订阅条款》及 Apple App Store 的支付条款。
+3.2 年度订阅为新订阅用户提供 3 天免费试用；试用期结束前取消不产生费用。试用期结束后将按 App Store 展示的价格自动续费，除非您在当前订阅周期结束前至少 24 小时关闭自动续期。
 
-3.3 由于 Apple 平台特性，所有购买、续期、退款均通过您的 Apple ID 进行，我们无法直接受理退款请求。
+3.3 付费功能相关条款请参见《订阅条款》及 Apple App Store 的支付条款。
+
+3.4 由于 Apple 平台特性，所有购买、续期、退款均通过您的 Apple ID 进行，我们无法直接受理退款请求。
 
 ### 4. 健康与用药提示（重要）
 
@@ -87,7 +89,7 @@
 
 These Terms of Use ("Terms") are a legal agreement between you and wangzz ("we", "us", "our") governing your use of DoseOnTime (the "App"). Please read these Terms carefully before using the App. By using the App, you confirm that you have read, understood, and agreed to be bound by these Terms.
 
-### 1. Accounts and Use
+### 1. Service and Accounts
 
 1.1 The App has no account system and requires no registration. All your data (medication plans, dose records, and app settings) is stored only on your device.
 
@@ -109,11 +111,13 @@ These Terms of Use ("Terms") are a legal agreement between you and wangzz ("we",
 
 ### 3. Fees and Subscriptions
 
-3.1 The App requires payment to unlock when you first save a medication reminder. Three options are offered: monthly subscription (¥12/month), yearly subscription (¥28/year), and lifetime one-time purchase (¥48). Actual prices are shown in the App Store at the time of purchase.
+3.1 The App requires payment to unlock when you first save a medication reminder. Three options are offered: monthly subscription, yearly subscription, and one-time purchase. The actual price and period are shown in the App Store at the time of purchase.
 
-3.2 Subscription terms are detailed in the "Subscription Terms" document and the Apple App Store payment terms.
+3.2 The yearly subscription offers new subscribers a 3-day free trial. Cancel before the trial ends and you will not be charged. After the trial, the subscription renews automatically at the price shown in the App Store unless auto-renewal is turned off at least 24 hours before the end of the current period.
 
-3.3 Due to Apple platform rules, all purchases, renewals, and refunds are processed through your Apple ID. We cannot process refunds directly.
+3.3 Subscription terms are detailed in the "Subscription Terms" document and the Apple App Store payment terms.
+
+3.4 Due to Apple platform rules, all purchases, renewals, and refunds are processed through your Apple ID. We cannot process refunds directly.
 
 ### 4. Health and Medication Notice (Important)
 

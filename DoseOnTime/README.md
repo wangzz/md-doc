@@ -4,13 +4,13 @@
 
 - 开发者：wangzz
 - 联系邮箱：wzzvictory_tjsd@163.com
-- 生效日期：2026-08-30
+- 生效日期：2026-09-01
 - 工程英文名（远端目录名）：`DoseOnTime`
 
 ## 文档清单
 
-- [PRIVACY.md](PRIVACY.md) — 隐私政策 / Privacy Policy
-- [TERMS.md](TERMS.md) — 用户协议 / Terms of Use
+- [PRIVACY_POLICY.md](PRIVACY_POLICY.md) — 隐私政策 / Privacy Policy
+- [USE_TERMS.md](USE_TERMS.md) — 使用条款 / Terms of Use
 - [SUBSCRIPTION.md](SUBSCRIPTION.md) — 订阅条款 / Subscription Terms（App 含自动续期订阅）
 
 ## 访问 URL（GitHub Blob，App 内引用与 ASC 提交的唯一规范）
@@ -21,13 +21,23 @@ https://github.com/wangzz/md-doc/blob/main/DoseOnTime/<DOCNAME>.md
 
 `<DOCNAME>` 取自协议矩阵的远端文件名，使用 SCREAMING_SNAKE_CASE：
 
-- `PRIVACY.md` — 隐私政策
-- `TERMS.md` — 用户协议
-- `SUBSCRIPTION.md` — 订阅条款（仅订阅 App）
-- `ACCOUNT_DELETION.md` — 账号删除说明（仅有账号体系）
+- `PRIVACY_POLICY` — 隐私政策（禁止写作 `PRIVACY` / `POLICY`）
+- `USE_TERMS` — 使用条款（禁止写作 `TERMS` / `EULA` / `TERMS_OF_USE`）
+- `SUBSCRIPTION` — 订阅条款（仅订阅 App）
+- `ACCOUNT_DELETION` — 账号删除说明（仅有账号体系）
 - 其余按 `references/legal-docs-playbook.md` §1 协议矩阵展开
 
 GitHub 会自动将 `.md` 文件渲染为带样式的 Markdown 页面，无需启用 GitHub Pages。
+
+## 发布到 foogry.wang
+
+三个文档同时发布到 `https://foogry.wang/doc/DoseOnTime/`，文件名即 URL slug：
+
+```
+https://foogry.wang/doc/DoseOnTime/PRIVACY_POLICY.html
+https://foogry.wang/doc/DoseOnTime/USE_TERMS.html
+https://foogry.wang/doc/DoseOnTime/SUBSCRIPTION.html
+```
 
 ## 更新流程
 
