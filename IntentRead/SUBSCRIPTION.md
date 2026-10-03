@@ -1,135 +1,147 @@
-# 意读 订阅条款 / Subscription Terms
+# 意读 IntentRead 订阅条款 / Subscription Terms
 
-生效日期 / Effective Date: 2026-09-24
+生效日期 / Effective Date: 2026-10-03
 
 ---
 
 ## 中文版
 
-本《订阅条款》适用于您在 意读（以下简称"本应用"）中购买的订阅服务，是《用户协议》的补充协议。如本条款与《用户协议》冲突，以本条款为准。
+本《订阅条款》适用于您在「意读 IntentRead」（以下简称"本应用"）中购买的全部订阅与一次性购买服务，是《使用条款》的补充协议。如本条款与《使用条款》冲突，以本条款为准。
 
 ### 1. 订阅产品
 
-本应用提供以下订阅产品：
+| 产品 | 周期 | 价格 | 免费试用 | 家庭共享 |
+|---|---|---|---|---|
+| 月订阅 | 1 个月 | ¥28 / $4.99 每月 | 无 | 支持 |
+| 年订阅 | 12 个月 | ¥88 / $9.99 每年 | 3 天免费试用 | 支持 |
+| 终身买断 | 一次性付费，永久使用 | ¥198 / $19.99 | 无 | 不支持 |
 
-{{SUBSCRIPTION_PRODUCTS}}
+具体价格以您购买时 App Store 中展示的价格为准，可能因地区、汇率与苹果定价策略而调整。
 
-订阅的具体价格以您购买时 App Store 展示的价格为准，可能因地区、汇率、苹果定价策略而调整。
+年订阅折算月均约 ¥7.3，相对月订阅更划算。年订阅的 3 天免费试用仅适用于首次订阅，试用期内取消不产生费用。
 
-### 2. 订阅计费与续期
+### 2. 订阅解锁的内容
 
-2.1 **自动续期**：订阅为自动续期服务。除非您在当前订阅周期结束前至少 24 小时关闭自动续期，否则订阅将自动续费至下一个周期。
+订阅或买断成功后，以下能力全部解锁：
 
-2.2 **续期扣费**：续期费用将在当前订阅期结束前 24 小时内从您的 Apple ID 账户扣除。
+- 不限次数的聊天判读（免费档已取消，未订阅时判读、历史记录、态度趋势不可用）
+- 意图、情绪倾向、敷衍倾向三类判读维度
+- 受限追问：针对一句话继续判读
+- 历史记录与联系人态度趋势
+- 设置中填入自定义 Jev API Key（BYOK）
 
-2.3 **续期价格**：续期价格通常与您订阅的周期价格一致。如价格发生变化，Apple 会在变更生效前通过邮件或应用内通知告知您。
+### 3. 自动续期与扣费
 
-2.4 **免费试用**：如本应用提供免费试用，试用期结束后将自动转入付费订阅，除非您在试用期结束前至少 24 小时取消。
+3.1 **月订阅与年订阅均为自动续期订阅服务。** 除非您在当前订阅周期结束前至少 24 小时于系统设置中关闭自动续期，否则订阅将在周期届满时自动续期。
 
-### 3. 如何管理订阅
+3.2 续期费用将在当前订阅期结束前 24 小时内，从您的 Apple ID 账户中扣除。
 
-您可以随时在以下位置管理或取消订阅：
+3.3 续期价格通常与您的订阅周期价格一致。若价格发生变化，Apple 会在变更生效前通过邮件或应用内通知告知您。
 
-**iOS 设置 → 您的 Apple ID 头像 → 订阅 → 选择 意读 → 取消订阅**
+3.4 免费试用期内不扣费；试用期届满前若未取消，将按订阅价格自动续期。
 
-或直接打开：https://apps.apple.com/account/subscriptions
+### 4. 如何管理订阅
 
-您也可以在本应用内「设置 → 管理订阅」进入同一管理页面。
+您可以随时通过以下任一方式查看或取消订阅：
 
-### 4. 退款政策
+**iOS 设置 → 顶部您的 Apple ID 头像 → 订阅 → 选择意读 → 取消订阅**
 
-4.1 根据 Apple App Store 政策，所有订阅的退款请求需向 Apple 提出，我们无法直接处理退款。
+或直接访问：https://apps.apple.com/account/subscriptions
 
-4.2 您可通过 https://reportaproblem.apple.com 申请退款。是否批准由 Apple 决定。
+关闭自动续期后，当前订阅周期在届满前仍有效，到期不再扣费；功能保留至当期结束。
 
-4.3 取消订阅不会退还当前订阅周期已支付的费用，但您仍可在当前周期内继续使用订阅服务。
+### 5. 终身买断
 
-### 5. 订阅内容与服务变更
+终身买断为一次性付费、一次性解锁，不自动续期、不分期扣费、不因订阅取消而失效。
 
-5.1 我们可能调整订阅所含功能。如发生实质性减少，我们会提前告知并提供合理的处理方案。
+### 6. 退款政策
 
-5.2 如本应用停止运营，我们会提前通知并按未使用期限比例协助您申请退款。
+所有购买均通过 Apple 完成。若您对购买有疑问或需要退款，请通过 Apple 官方渠道申请：**Report a Problem**（https://reportproblem.apple.com/），或联系 Apple 支持。Apple 的退款政策独立于本条款，我们以 Apple 的裁定为准。
 
-### 6. 账号与订阅绑定
+### 7. 恢复购买
 
-6.1 订阅绑定您的 Apple ID，而非本应用内的账号。同一 Apple ID 在多台设备上登录可共享订阅权益。
+更换设备或重装应用后，可在「设置 → 恢复购买」恢复已购权益。您需要登录购买时使用的同一个 Apple ID。
 
-6.2 如您使用家庭共享（Family Sharing），订阅可能可供家庭组成员使用，具体以 App 内说明为准。
+### 8. 价格变更
 
-### 7. 与 Apple 的关系
+我们保留调整订阅价格的权利。已生效的订阅在当期不受价格调整影响；续期时的价格以 App Store 届时展示为准。
 
-本应用的订阅通过 Apple In-App Purchase 系统处理。购买行为受 Apple 媒体服务条款和您与 Apple 之间的协议约束：https://www.apple.com/legal/internet-services/itunes/
+### 9. 试用结束提醒
 
-### 8. 联系方式
+苹果会在免费试用期结束前 24 小时向您发送提醒邮件。若您不希望续费，请在该时点前取消自动续期。
 
-如您对订阅条款有疑问，请联系：
+### 10. 联系我们
 
-- 开发者：wangzz
-- 邮箱：wzzvictory_tjsd@163.com
-
-本条款的解释适用 中国 法律。
+关于订阅与购买的任何问题：wzzvictory_tjsd@163.com
 
 ---
 
 ## English Version
 
-These Subscription Terms apply to subscription services you purchase within 意读 (the "App") and supplement the Terms of Use. In case of conflict, these Subscription Terms prevail.
+These Subscription Terms apply to all subscription and one-time purchases made in "IntentRead" (the "App") and supplement the Terms of Use. In the event of a conflict, these Terms prevail.
 
 ### 1. Subscription Products
 
-The App offers the following subscription products:
+| Product | Period | Price | Free trial | Family sharing |
+|---|---|---|---|---|
+| Monthly | 1 month | ¥28 / $4.99 per month | None | Supported |
+| Yearly | 12 months | ¥88 / $9.99 per year | 3-day free trial | Supported |
+| Lifetime | One-time payment, permanent | ¥198 / $19.99 | None | Not supported |
 
-{{SUBSCRIPTION_PRODUCTS_EN}}
+The price shown in the App Store at the time of purchase governs. Prices may vary by region, exchange rate, and Apple's pricing policy.
 
-Actual prices are shown in the App Store at the time of purchase and may vary by region, exchange rate, or Apple's pricing policies.
+The yearly plan works out to roughly ¥7.3 per month and offers better value than the monthly plan. The 3-day free trial applies to first-time yearly subscriptions only; cancelling during the trial incurs no charge.
 
-### 2. Billing and Renewal
+### 2. What Subscriptions Unlock
 
-2.1 **Auto-Renewal**: Subscriptions automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current period.
+After subscribing or purchasing lifetime access, the following are unlocked:
 
-2.2 **Renewal Charge**: Your Apple ID will be charged within 24 hours prior to the end of the current period.
+- Unlimited conversation judgments (the free tier has been retired; judging, history, and trend features are unavailable without a purchase)
+- All three judgment dimensions: intent, emotional leaning, and perfunctory tendency
+- Follow-up chips: continue judging a single line
+- History and attitude trends per contact
+- Bringing your own Jev API key (BYOK) in Settings
 
-2.3 **Renewal Price**: Renewal prices generally match the initial subscription price. Apple will notify you by email or in-app notification of any price changes before they take effect.
+### 3. Automatic Renewal and Billing
 
-2.4 **Free Trial**: If a free trial is offered, it automatically converts to a paid subscription at its end unless you cancel at least 24 hours before the trial ends.
+3.1 **Both the Monthly and Yearly plans renew automatically.** Unless you turn off auto-renewal in System Settings at least 24 hours before the end of the current period, the subscription will renew for the next period.
 
-### 3. Managing Your Subscription
+3.2 Renewal charges are deducted from your Apple ID account within 24 hours before the current period ends.
 
-You can manage or cancel your subscription any time at:
+3.3 Renewal pricing normally matches your subscription period price. If a price change takes effect, Apple will notify you by email or in the App before it applies.
 
-**iOS Settings → Your Apple ID avatar → Subscriptions → Select 意读 → Cancel**
+3.4 No charge occurs during the free trial. If you do not cancel before the trial ends, the subscription renews at the standard price.
 
-Or directly at: https://apps.apple.com/account/subscriptions
+### 4. Managing Your Subscription
 
-An in-app shortcut is also available at "Settings → Manage Subscription".
+You can view or cancel your subscription at any time via:
 
-### 4. Refund Policy
+**iOS Settings → your Apple ID at the top → Subscriptions → select IntentRead → Cancel**
 
-4.1 Per Apple App Store policy, all refund requests must be made to Apple. We cannot process refunds directly.
+Or directly: https://apps.apple.com/account/subscriptions
 
-4.2 You may request a refund at https://reportaproblem.apple.com. Approval is at Apple's discretion.
+After auto-renewal is disabled, the current period remains valid until it ends; features stay active through the end of that period.
 
-4.3 Canceling a subscription does not refund fees for the current period, but you may continue using the subscription until the period ends.
+### 5. Lifetime Purchase
 
-### 5. Changes to the Subscription
+The Lifetime plan is a single payment for permanent access. It does not renew automatically, is not billed in instalments, and is not revoked when a subscription is cancelled.
 
-5.1 We may adjust subscription features. In the event of a material reduction, we will provide advance notice and a reasonable remedy.
+### 6. Refund Policy
 
-5.2 If the App is discontinued, we will provide advance notice and assist with pro-rated refund requests for unused periods.
+All purchases are processed by Apple. For refunds or purchase issues, use Apple's official channel: **Report a Problem** (https://reportproblem.apple.com/) or contact Apple Support. Apple's refund policy applies independently of these Terms, and Apple's determination governs.
 
-### 6. Account Binding
+### 7. Restoring Purchases
 
-6.1 Subscriptions are bound to your Apple ID rather than an in-app account. The same Apple ID across multiple devices shares the subscription.
+After switching devices or reinstalling, restore your entitlement under Settings → Restore Purchases. You must sign in with the same Apple ID used at the time of purchase.
 
-6.2 If you use Family Sharing, subscriptions may be shareable with family members subject to the App's in-app indication.
+### 8. Price Changes
 
-### 7. Relationship with Apple
+We reserve the right to adjust subscription prices. An active subscription is not affected during its current period; the price applied at renewal is the one shown in the App Store at that time.
 
-Subscriptions are processed via Apple In-App Purchase. Purchases are subject to the Apple Media Services Terms and your agreement with Apple: https://www.apple.com/legal/internet-services/itunes/
+### 9. Trial Ending Reminder
 
-### 8. Contact
+Apple sends a reminder email 24 hours before the free trial ends. If you do not wish to continue, cancel auto-renewal before that point.
 
-- Developer: wangzz
-- Email: wzzvictory_tjsd@163.com
+### 10. Contact
 
-Governed by the laws of 中国.
+For any subscription or billing question: wzzvictory_tjsd@163.com
