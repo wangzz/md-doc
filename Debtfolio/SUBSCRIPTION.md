@@ -1,137 +1,125 @@
-# 理债 订阅条款 / Subscription Terms
+# 理债 Debtfolio 订阅条款
 
-生效日期 / Effective Date: 2026-10-17
+生效日期：2026-10-23
 
----
+开发者：wangzz
+联系邮箱：wzzvictory_tjsd@163.com
+适用法律：中华人民共和国法律
 
-## 中文版
+## 1. 条款关系
 
-本《订阅条款》适用于您在 理债（以下简称"本应用"）中购买的订阅服务，是《用户协议》的补充协议。如本条款与《用户协议》冲突，以本条款为准。
+本订阅条款适用于您在理债（英文名 Debtfolio，以下简称"本应用"）中购买的自动续期订阅与一次性购买项目，是《使用条款》的补充。本条款与《使用条款》冲突时，以本条款为准。
 
-### 1. 订阅产品
+## 2. 商品清单
 
-本应用提供以下订阅产品：
+| 商品 | 商品 ID | 类型 | 周期 | 中国区参考价格 |
+|---|---|---|---|---|
+| 月度会员 | com.wangzz.debtfolio.sub.monthly | 自动续期订阅 | 1 个月 | ¥6 |
+| 年度会员 | com.wangzz.debtfolio.sub.yearly | 自动续期订阅 | 1 年 | ¥48 |
+| 尊享会员 | com.wangzz.debtfolio.lifetime | 一次性购买（非消耗型） | 无 | ¥128 |
 
-- 月度订阅：¥6 / 月
-- 年度订阅：¥48 / 年（含 3 天免费试用）
+上述价格为中华人民共和国区 App Store 的参考价。其他国家和地区的价格由 Apple 按当地定价策略换算，实际价格以购买时 App Store 页面显示为准。
 
-订阅的具体价格以您购买时 App Store 展示的价格为准，可能因地区、汇率、苹果定价策略而调整。
+## 3. 会员权益
 
-### 2. 订阅计费与续期
+购买任一商品后，可解锁：不限笔数的贷款档案、提前还款策略模拟器、多笔贷款省息排序、任意年份的本息构成报告、CSV 与 PDF 数据导出。免费版可录入 1 笔贷款，使用基础总览与还贷日历。
 
-2.1 **自动续期**：订阅为自动续期服务。除非您在当前订阅周期结束前至少 24 小时关闭自动续期，否则订阅将自动续费至下一个周期。
+## 4. 免费试用
 
-2.2 **续期扣费**：续期费用将在当前订阅期结束前 24 小时内从您的 Apple ID 账户扣除。
+年度会员对新订阅用户提供 3 天免费试用。试用期结束后，若您未在到期前至少 24 小时取消，订阅将自动转为付费订阅并扣费。同一 Apple ID 仅可享受一次新用户试用。
 
-2.3 **续期价格**：续期价格通常与您订阅的周期价格一致。如价格发生变化，Apple 会在变更生效前通过邮件或应用内通知告知您。
+## 5. 自动续期与扣费
 
-2.4 **免费试用**：如本应用提供免费试用，试用期结束后将自动转入付费订阅，除非您在试用期结束前至少 24 小时取消。
+- 订阅为自动续期服务。除非您在当前订阅周期结束前至少 24 小时关闭自动续期，否则订阅将自动续费至下一个周期
+- 续期费用将在当前订阅周期结束前 24 小时内从您的 Apple ID 账户扣除
+- 续期价格以您订阅时的价格为准；如价格调整，Apple 会按平台规则提前通知
 
-### 3. 如何管理订阅
+## 6. 管理与取消
 
-您可以随时在以下位置管理或取消订阅：
+您可随时在以下位置管理或取消订阅：
 
-**iOS 设置 → 您的 Apple ID 头像 → 订阅 → 选择 理债 → 取消订阅**
+- 本应用内：设置 - 管理订阅
+- 系统设置：设置 - 您的 Apple ID - 订阅 - 选择理债
+- 网页：https://apps.apple.com/account/subscriptions
 
-或直接打开：https://apps.apple.com/account/subscriptions
+取消后，您仍可在当前已付费周期结束前使用会员权益。一次性购买项目不涉及续期。
 
-您也可以在本应用内「设置 → 管理订阅」进入同一管理页面。
+## 7. 恢复购买
 
-### 4. 退款政策
+更换设备或重新安装后，可在付费墙或设置页点击"恢复购买"找回已购权益。恢复过程不会产生新的扣费。
 
-4.1 根据 Apple App Store 政策，所有订阅的退款请求需向 Apple 提出，我们无法直接处理退款。
+## 8. 退款
 
-4.2 您可通过 https://reportaproblem.apple.com 申请退款。是否批准由 Apple 决定。
+所有交易由 Apple 处理。如需退款，请通过 Apple 的退款渠道提交申请，开发者无法直接受理或决定退款结果。
 
-4.3 取消订阅不会退还当前订阅周期已支付的费用，但您仍可在当前周期内继续使用订阅服务。
+## 9. 价格调整
 
-### 5. 订阅内容与服务变更
+开发者保留调整商品与价格的权利。调整不影响您在调整生效前已购买的订阅周期，也不会对已完成的购买追溯收费。
 
-5.1 我们可能调整订阅所含功能。如发生实质性减少，我们会提前告知并提供合理的处理方案。
+## 10. 联系我们
 
-5.2 如本应用停止运营，我们会提前通知并按未使用期限比例协助您申请退款。
-
-### 6. 账号与订阅绑定
-
-6.1 订阅绑定您的 Apple ID，而非本应用内的账号。同一 Apple ID 在多台设备上登录可共享订阅权益。
-
-6.2 如您使用家庭共享（Family Sharing），订阅可能可供家庭组成员使用，具体以 App 内说明为准。
-
-### 7. 与 Apple 的关系
-
-本应用的订阅通过 Apple In-App Purchase 系统处理。购买行为受 Apple 媒体服务条款和您与 Apple 之间的协议约束：https://www.apple.com/legal/internet-services/itunes/
-
-### 8. 联系方式
-
-如您对订阅条款有疑问，请联系：
-
-- 开发者：wangzz
-- 邮箱：wzzvictory_tjsd@163.com
-
-本条款的解释适用 中国 法律。
+如对订阅有任何疑问，请发送邮件至 wzzvictory_tjsd@163.com，或通过应用内"设置 - 反馈"联系我们。
 
 ---
 
-## English Version
+# Debtfolio Subscription Terms
 
-These Subscription Terms apply to subscription services you purchase within 理债 (the "App") and supplement the Terms of Use. In case of conflict, these Subscription Terms prevail.
+Effective Date: 2026-10-23
 
-### 1. Subscription Products
+Developer: wangzz
+Contact: wzzvictory_tjsd@163.com
+Governing Law: Laws of the People's Republic of China
 
-The App offers the following subscription products:
+## 1. Relationship to Other Terms
 
-- Monthly Subscription: ¥6 / month
-- Yearly Subscription: ¥48 / year (includes a 3-day free trial)
+These Subscription Terms apply to auto-renewable subscriptions and one-time purchases made in Debtfolio (the "App"), and supplement the Terms of Use. If there is a conflict, these Subscription Terms prevail.
 
-Actual prices are shown in the App Store at the time of purchase and may vary by region, exchange rate, or Apple's pricing policies.
+## 2. Products
 
-### 2. Billing and Renewal
+| Product | Product ID | Type | Period | Reference price in China |
+|---|---|---|---|---|
+| Monthly | com.wangzz.debtfolio.sub.monthly | Auto-renewable subscription | 1 month | CNY 6 |
+| Yearly | com.wangzz.debtfolio.sub.yearly | Auto-renewable subscription | 1 year | CNY 48 |
+| Lifetime | com.wangzz.debtfolio.lifetime | One-time purchase (non-consumable) | None | CNY 128 |
 
-2.1 **Auto-Renewal**: Subscriptions automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current period.
+The prices above are reference prices on the App Store in the People's Republic of China. Prices in other countries and regions are converted by Apple under its local pricing policy; the actual price is the one shown on the App Store at the time of purchase.
 
-2.2 **Renewal Charge**: Your Apple ID will be charged within 24 hours prior to the end of the current period.
+## 3. Membership Benefits
 
-2.3 **Renewal Price**: Renewal prices generally match the initial subscription price. Apple will notify you by email or in-app notification of any price changes before they take effect.
+Any purchase unlocks: unlimited loan records, the prepayment strategy simulator, multi-loan savings ranking, principal and interest reports for any year, and CSV and PDF export. The free version supports one loan, the basic overview and the repayment calendar.
 
-2.4 **Free Trial**: If a free trial is offered, it automatically converts to a paid subscription at its end unless you cancel at least 24 hours before the trial ends.
+## 4. Free Trial
 
-### 3. Managing Your Subscription
+Yearly membership includes a 3-day free trial for new subscribers. Unless you cancel at least 24 hours before it ends, the trial automatically converts to a paid subscription. Each Apple ID may use the new-subscriber trial once.
 
-You can manage or cancel your subscription any time at:
+## 5. Auto-Renewal and Billing
 
-**iOS Settings → Your Apple ID avatar → Subscriptions → Select 理债 → Cancel**
+- Subscriptions renew automatically unless you turn off auto-renewal at least 24 hours before the end of the current period
+- The renewal fee is charged to your Apple ID within 24 hours before the current period ends
+- Renewal uses your current price; if Apple changes prices, Apple will notify you according to platform rules
 
-Or directly at: https://apps.apple.com/account/subscriptions
+## 6. Managing and Cancelling
 
-An in-app shortcut is also available at "Settings → Manage Subscription".
+You can manage or cancel at any time:
 
-### 4. Refund Policy
+- In the App: Settings - Manage Subscription
+- In iOS Settings: Settings - your Apple ID - Subscriptions - Debtfolio
+- On the web: https://apps.apple.com/account/subscriptions
 
-4.1 Per Apple App Store policy, all refund requests must be made to Apple. We cannot process refunds directly.
+After cancelling, you keep membership benefits until the end of the paid period. One-time purchases do not renew.
 
-4.2 You may request a refund at https://reportaproblem.apple.com. Approval is at Apple's discretion.
+## 7. Restore Purchases
 
-4.3 Canceling a subscription does not refund fees for the current period, but you may continue using the subscription until the period ends.
+After changing devices or reinstalling, tap "Restore Purchases" on the paywall or in Settings to recover your entitlement. Restoring does not create a new charge.
 
-### 5. Changes to the Subscription
+## 8. Refunds
 
-5.1 We may adjust subscription features. In the event of a material reduction, we will provide advance notice and a reasonable remedy.
+All transactions are handled by Apple. To request a refund, use Apple's refund channel. The developer cannot process or decide refunds directly.
 
-5.2 If the App is discontinued, we will provide advance notice and assist with pro-rated refund requests for unused periods.
+## 9. Price Changes
 
-### 6. Account Binding
+The developer may change products and prices. Changes do not affect subscription periods already paid for, and no retroactive charges apply to completed purchases.
 
-6.1 Subscriptions are bound to your Apple ID rather than an in-app account. The same Apple ID across multiple devices shares the subscription.
+## 10. Contact
 
-6.2 If you use Family Sharing, subscriptions may be shareable with family members subject to the App's in-app indication.
-
-### 7. Relationship with Apple
-
-Subscriptions are processed via Apple In-App Purchase. Purchases are subject to the Apple Media Services Terms and your agreement with Apple: https://www.apple.com/legal/internet-services/itunes/
-
-### 8. Contact
-
-- Developer: wangzz
-- Email: wzzvictory_tjsd@163.com
-
-Governed by the laws of China.
+If you have questions about subscriptions, email wzzvictory_tjsd@163.com or use Settings - Feedback inside the App.
